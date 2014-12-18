@@ -1,0 +1,21 @@
+{
+    "name": "younggeeks/infobip-l4",
+    "description": "",
+    "authors": [
+        {
+            "name": "Samjunior",
+            "email": "younggeeks101@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "infobip/oneapi": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Younggeeks\\InfobipL4": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
